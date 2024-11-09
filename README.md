@@ -5,7 +5,7 @@
 <h2 align="center"> 😄 About Me  </h2>
 🌱 I’m currently learning Artifitial Intelligence   <br/>
 🔭 I’m currently working on Department of Artificial Intelligence at Yonsei University   <br/>
-⚡ I’m currently interested in Reinforcement Learning & Adversarial Examples   <br/>
+⚡ I’m currently interested in Differential Privacy   <br/>
 <h2 align="center"> ✨ Contact Me ✨  </h2>
 
 <div align="center">
